@@ -11959,3 +11959,11 @@ textarea.form-control-lg {
 #git-link{
     font-size: 20px;
 }
+
+.body-general{
+    background-color: black;
+}
+
+.header-bread{
+    background-color: #0a53be;
+}
