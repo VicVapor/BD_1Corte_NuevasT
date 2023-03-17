@@ -11955,3 +11955,7 @@ textarea.form-control-lg {
     justify-content: center;
     align-items: center;
 }
+
+#git-link{
+    font-size: 20px;
+}
